@@ -1,0 +1,9 @@
+VCD info: dumpfile car_indicator_controller.vcd opened for output.
+
+Time=0   | Left_Signal=0 | Right_Signal=0 | Hazard=0 | Left_Indicator=0 | Right_Indicator=0
+Time=20  | Left_Signal=0 | Right_Signal=0 | Hazard=0 | Left_Indicator=0 | Right_Indicator=0
+Time=30  | Left_Signal=1 | Right_Signal=0 | Hazard=0 | Left_Indicator=1 | Right_Indicator=0
+Time=40  | Left_Signal=0 | Right_Signal=1 | Hazard=0 | Left_Indicator=0 | Right_Indicator=1
+Time=50  | Left_Signal=0 | Right_Signal=0 | Hazard=1 | Left_Indicator=1 | Right_Indicator=1
+Time=60  | Left_Signal=1 | Right_Signal=1 | Hazard=0 | Left_Indicator=0 | Right_Indicator=0
+Time=70  | Left_Signal=0 | Right_Signal=0 | Hazard=0 | Left_Indicator=0 | Right_Indicator=0
